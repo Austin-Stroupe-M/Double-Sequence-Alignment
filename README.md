@@ -35,3 +35,9 @@ This python script takes two RNA sequences and three score values. From those se
 - A: The script will immediately crash. This will be fixed in a future update.
 - Q: Can I save my results?
 - A: In the previous version all results would be saved in a file automatically but this was changed to printing to the console for ease of use. In a future update you will be able to choose to save your results or not.
+## Troubleshooting/Support
+If you encounter problems make sure you have python installed and that the version is 3.0 or above. If that does not fix your issue feel free to contact me at [austin.stroupe.m@gmail.com](austin.stroupe.m@gmail.com).
+## Contributions
+The source code is available and you are welcome to submit push requests.
+## Licensing
+ TBA
