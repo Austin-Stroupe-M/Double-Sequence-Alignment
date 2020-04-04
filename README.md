@@ -28,3 +28,10 @@ This python script takes two RNA sequences and three score values. From those se
 - **Screenshot of complete run to be added**
 8. You can now choose if you want to run the script again. Type the letter **Y** to run again or type **N** to stop and close the script.
 - `Run again? (Y/N): N`
+## FAQs
+- Q: What happens if I input a number in the sequence?
+- A: Nothing will immediately happen or break but your results will be nonsense.
+- Q: What happens if I input a letter for the match/mismatch/gap scores?
+- A: The script will immediately crash. This will be fixed in a future update.
+- Q: Can I save my results?
+- A: In the previous version all results would be saved in a file automatically but this was changed to printing to the console for ease of use. In a future update you will be able to choose to save your results or not.
