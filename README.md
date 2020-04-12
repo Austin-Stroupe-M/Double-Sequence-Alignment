@@ -17,7 +17,8 @@ This python script takes two RNA sequences and three score values. From those se
 2. Move the file to your intended directory
 
 ## Use
-1. **Double Click** the file to run the script. This will open a **console**.
+1. **Double Click** the file to run the script. 
+- *This will open a **console**.*
 2. Once the console is open it will prompt you to enter the first RNA sequence. This sequence should only contain **letters**. Type your RNA sequence in the console and hit **ENTER**.
 -  `Enter Sequence 1: CGAUCAC`
 3. The console will prompt you for a second sequence. Repeat **Step 2** with a new sequence. 
@@ -34,7 +35,7 @@ This python script takes two RNA sequences and three score values. From those se
 ![A full run should look like this.](Sample.PNG)
 
 - You can now choose if you want to run the script again.
-- Type the letter **Y** to run again or type **N** to stop and close the script.
+- *Type the letter **Y** to run again or type **N** to stop and close the script.*
 - `Run again? (Y/N): N`
 
 ## FAQs
