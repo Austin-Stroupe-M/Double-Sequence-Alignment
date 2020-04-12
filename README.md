@@ -33,7 +33,7 @@ This python script takes two RNA sequences and three score values. From those se
 
 ![A full run should look like this.](Sample.PNG)
 
-8. You can now choose if you want to run the script again.
+- You can now choose if you want to run the script again.
 - Type the letter **Y** to run again or type **N** to stop and close the script.
 - `Run again? (Y/N): N`
 
