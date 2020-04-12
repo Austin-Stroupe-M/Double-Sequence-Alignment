@@ -2,6 +2,8 @@
 ## Introduction
 This python script takes two RNA sequences and three score values. From those sequences and values it calculates the optimal alignment of the two sequences based on the provided scores.
 
+#### Test
+
 ## Features
 - Prints score array
 - Prints backtracking array
