@@ -41,4 +41,4 @@ If you encounter problems make sure you have python installed and that the versi
 ## Contributions
 The source code is available and you are welcome to submit push requests.
 ## Licensing
- TBA
+[MIT](https://choosealicense.com/licenses/mit/)
