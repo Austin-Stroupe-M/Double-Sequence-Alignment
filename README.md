@@ -25,7 +25,7 @@ This python script takes two RNA sequences and three score values. From those se
 6. Finally, you will input your gap penalty. This value should be a **negative integer or zero**. 
 - `Enter gap penalty: -3`
 7. The script will now generate your score matrix, your backtracking matrix, the alignment of the two sequences, and the optimal score. All of this will be printed to the console.
-- Image place holder
+- ![A full run should look like this.](Sample.PNG)
 8. You can now choose if you want to run the script again.
 - Type the letter **Y** to run again or type **N** to stop and close the script.
 - `Run again? (Y/N): N`
